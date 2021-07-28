@@ -1,14 +1,16 @@
-/* This is a Feed Forward neural net with three
-layer perceptron: input layer, hidden layer, output layer.
-*/
-
 function setup() {
-  // put setup code here
-  createCanvas(400, 400);
-  brain = new Neural_Net(3, 3, 1);
-}
+  
+  let nn = new NeuralNetwork(2, 2, 1);
+  
+  let input = [1, 0];
 
-function draw() {
-  // put drawing code here
-  background(0,255, 0);
+  let output = nn.feedforward(input);
+  console.log(output);
 }
+setup();
+
+  
+
+
+
+
