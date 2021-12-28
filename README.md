@@ -1,11 +1,6 @@
 # drewjoe907
 # NeuralNet
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 88e919fe26cfc4f9f9ebbc6de517b47b28c20c5e
 This is a simple neural_net wharehouse in javascript using supervised 
 learning strategy for machine learning.
 
@@ -44,7 +39,3 @@ which performs the perceptron algorithm
 
     2. initiate & fill a matrix. We will also want the to be 
     able to perform matrix operations.
-<<<<<<< HEAD
-=======
-
->>>>>>> 88e919fe26cfc4f9f9ebbc6de517b47b28c20c5e
