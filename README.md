@@ -18,8 +18,6 @@ Algorithms used:
     sum passed to the 
     Activation fuction -> sign(n) -> if n>=0 -> 1 if n < 0 -> -1
     
-whereever i refer to a neuron below - im really talking about a node 
-which performs the perceptron algorithm
     
     Feed Forward: 
     1. use hidden neuron to calculate a weighted sum.
