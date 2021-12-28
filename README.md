@@ -1,7 +1,7 @@
 # drewjoe907
 # NeuralNet
 
-This is a simple neural_net wharehouse in javascript using supervised 
+This is a simple neural_net in javascript using supervised 
 learning strategy for machine learning.
 
 Why Javascript? This is a training excersise to build up my matrix math 
